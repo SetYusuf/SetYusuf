@@ -2,8 +2,10 @@
 Hi, I’m Yusuf. I’m an ITE student at RUPP, Im passionate about technology. I’m currently learning web app development and exploring the world of AI.
 
 
+
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Set Yusuf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:setyusuf236@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SetYusuf)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:setyusuf236@gmail.com)
 
 
 # 💻 Tech Stack:
