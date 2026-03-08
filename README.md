@@ -16,6 +16,7 @@ Hi, I’m Yusuf. I’m an ITE student at RUPP, Im passionate about technology. I
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-blue?style=for-the-badge)](https://deepseek.com)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 ![LLMs](https://img.shields.io/badge/Large%20Language%20Models-LLMs-purple?style=for-the-badge)
+[![GRPO](https://img.shields.io/badge/GRPO-AI-blue?style=for-the-badge)](https://arxiv.org/abs/2301.00169)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SetYusuf)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:setyusuf236@gmail.com)
