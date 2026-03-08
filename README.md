@@ -19,7 +19,7 @@ Hi, I’m Yusuf. I’m an ITE student at RUPP, Im passionate about technology. I
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude-AI-blue?style=for-the-badge&logo=anthropic&logoColor=white)
-
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 
 # 📊 GitHub Stats:
