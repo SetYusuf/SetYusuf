@@ -17,7 +17,7 @@ Hi, I’m Yusuf. I’m an ITE student at RUPP, Im passionate about technology. I
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SetYusuf)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:setyusuf236@gmail.com)
-
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/UncleYuu)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SetYusuf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
