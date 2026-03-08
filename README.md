@@ -19,10 +19,6 @@ Hi, I’m Yusuf. I’m an ITE student at RUPP, Im passionate about technology. I
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:setyusuf236@gmail.com)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/UncleYuu)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SetYusuf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SetYusuf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SetYusuf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SetYusuf&icon=0&color=0)](https://visitcount.itsvg.in)
