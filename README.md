@@ -13,7 +13,7 @@ Hi, I’m Yusuf. I’m an ITE student at RUPP, Im passionate about technology. I
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude-AI-blue?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-blue?style=for-the-badge)](https://deepseek.com)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SetYusuf)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:setyusuf236@gmail.com)
