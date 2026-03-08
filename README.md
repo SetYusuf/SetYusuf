@@ -17,11 +17,12 @@ Hi, I’m Yusuf. I’m an ITE student at RUPP, Im passionate about technology. I
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 ![LLMs](https://img.shields.io/badge/Large%20Language%20Models-LLMs-purple?style=for-the-badge)
 [![GRPO](https://img.shields.io/badge/GRPO-AI-blue?style=for-the-badge)](https://arxiv.org/abs/2301.00169)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/UncleYuu)
 [![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-RL-red?style=for-the-badge)](https://en.wikipedia.org/wiki/Reinforcement_learning)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SetYusuf)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:setyusuf236@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/UncleYuu)
+
 
 [![](https://visitcount.itsvg.in/api?id=SetYusuf&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
