@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yusuf 👋</h1>
+<h1 align="center">Hi, I'm Yusuf </h1>
 <p align="center">
 ITE Student @ RUPP • AI Systems • Automation • Web Development
 </p>
