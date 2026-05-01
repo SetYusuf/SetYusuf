@@ -47,7 +47,7 @@ ITE Student @ RUPP • AI Systems • Automation • Web Development
 
 ---
 
-## 📊 Profile Stats
+##  Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=SetYusuf&color=blue)
 
 ---
